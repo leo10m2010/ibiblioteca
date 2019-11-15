@@ -1,0 +1,21 @@
+.boton {
+	background:linear-gradient(to bottom, #333333 5%, #333333 100%);
+	background-color:#333333;
+	border-radius:28px;
+	border:1px solid #333333;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:4px 4px;
+	text-decoration:none;
+}
+.boton:hover {
+	background:linear-gradient(to bottom, #333333 5%, #333333 100%);
+	background-color:#333333;
+}
+.boton:active {
+	position: relative;
+	top:1px;
+}
