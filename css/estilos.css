@@ -84,3 +84,8 @@ footer .contenedor {
         width: 1000px;
     }
 }
+
+a {
+text-decoration: none;
+color: #333;
+}
